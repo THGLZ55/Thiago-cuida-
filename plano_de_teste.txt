@@ -1,0 +1,5 @@
+escopo:um app de delivery com varios bugs e erros gramaticais
+estrategia:testando manualmente como o cliente faria
+recursos:Index.html
+cronograma:analisei por 5 minutos o codigo e 10 minutos para corrigir
+ferramantes utilizadas na operação:git/github desktop,vs code
