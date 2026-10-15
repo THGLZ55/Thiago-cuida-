@@ -1,0 +1,7 @@
+objetivo: testar o app de delivery e corrigir os erros achados
+
+contexto inicial: uma aplicação de app de delivery que apresenta erros visuais e na parte logica
+
+ação executada:mundanca na paleta de cores e erros gramaticais e na parte logica 
+
+saida esperada:que o codigo roda-se sem erros
