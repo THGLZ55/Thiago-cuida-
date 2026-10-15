@@ -1,0 +1,5 @@
+passos para reproduzir:preencher os campos obrigatorios que sao valor do lanche e bairro para entrega
+
+resultado obitido:erros na gramatica e em vez de somar estava multiplicando o valor
+
+resultado esperado:a aplicação nao apresentar nenhum erro nos calculo no valor do lanche e sem erros na gramatica
